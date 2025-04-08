@@ -9,19 +9,20 @@
 
 <section id="csharp">
   <h2>C# Projects</h2>
-  ## 🔷 C# Projects
 
-### 💼 Equipment Tracking System for Mining Operations
-
-A C# desktop application built for mining companies to manage safety equipment issued to employees. The app uses barcode scanning and stores all data in a local SQLite database.
-
-**Features:**
-- Register employees and safety gear
-- Track items checked in/out via barcode
-- Identify missing or unreturned equipment
-- Fully offline with SQLite support
-
-**Tech used:** `C#`, `WinForms`, `SQLite`, `Barcode Scanning`
+  <div class="project-card">
+    <h3>💼 Equipment Tracking System for Mining Operations</h3>
+    <p>
+      A C# desktop application built for mining companies to manage safety equipment issued to employees. The app uses barcode scanning and stores all data in a local SQLite database.
+    </p>
+    <ul>
+      <li>Register employees and safety gear</li>
+      <li>Track items checked in/out via barcode</li>
+      <li>Identify missing or unreturned equipment</li>
+      <li>Fully offline with SQLite support</li>
+    </ul>
+    <p><strong>Tech used:</strong> C#, WinForms, SQLite, Barcode Scanning</p>
+  </div>
 </section>
 
 <section id="flutter">
