@@ -1,27 +1,16 @@
-## Portfolio
-
----
-
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-
-### Category Name 2
-
-- [Project 1 Title](https://github.com/EverGreeff/AvaliaAulaAPIPublic)
-- [Project 2 Title](https://github.com/EverGreeff/AvaliaAulaPublic)
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+<div class="project-card">
+  <h2>Equipment Tracking System</h2>
+  <p><strong>Role:</strong> Full-stack Developer</p>
+  <p>
+    Developed a C# desktop app using SQLite and barcode scanning to manage equipment for mining employees. Tracks what is taken into the mines and what is returned, reducing loss and improving safety.
+  </p>
+  <ul class="tech-list">
+    <li>C#</li>
+    <li>WinForms / WPF</li>
+    <li>SQLite</li>
+    <li>Barcode Scanning</li>
+    <li>MVVM Pattern (if used)</li>
+  </ul>
+  <!-- Optional -->
+  <a href="link-to-screenshots-or-demo" class="button">See More</a>
+</div>
