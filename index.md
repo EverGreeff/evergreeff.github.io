@@ -1,3 +1,18 @@
+<style>
+  .project-card {
+  background-color: #f9f9f9;
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
+.project-card h3 {
+  margin-top: 0;
+}
+.project-card ul {
+  padding-left: 1.2rem;
+}
+</style>
 <nav>
   <ul>
     <li><a href="#csharp">C#</a></li>
