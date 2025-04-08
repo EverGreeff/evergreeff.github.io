@@ -23,6 +23,20 @@
     </ul>
     <p><strong>Tech used:</strong> C#, WinForms, SQLite, Barcode Scanning</p>
   </div>
+
+  <div class="project-card">
+  <h3>🔗 Paint Information API for Android Integration</h3>
+  <p>
+    A self-hosted C# API that runs on the client's local network and provides paint-related data such as manufacturer, color, and pricing. This API is accessed by an Android app used by employees to search and retrieve product information in real time.
+  </p>
+  <ul>
+    <li>Serves paint data: fabricant, color codes, categories, and prices</li>
+    <li>Communicates with an Android app via a local network link</li>
+    <li>Supports JSON responses for fast and clean integration</li>
+    <li>Lightweight and reliable — ideal for internal environments</li>
+  </ul>
+  <p><strong>Tech used:</strong> C#, ASP.NET (Self-Hosted API), JSON, Android (Client App)</p>
+</div>
 </section>
 
 <section id="flutter">
