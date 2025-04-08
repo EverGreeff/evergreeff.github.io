@@ -1,30 +1,23 @@
-<div id="tech-filter">
-  <button onclick="filterProjects('all')">All</button>
-  <button onclick="filterProjects('csharp')">C#</button>
-  <button onclick="filterProjects('flutter')">Flutter</button>
-  <button onclick="filterProjects('php')">PHP</button>
-</div>
+<nav>
+  <ul>
+    <li><a href="#csharp">C#</a></li>
+    <li><a href="#flutter">Flutter</a></li>
+    <li><a href="#php">PHP</a></li>
+    <!-- add more -->
+  </ul>
+</nav>
 
-<div class="project csharp">
-  <h3>Equipment Tracker</h3>
-  <p>Built in C#, SQLite, WinForms...</p>
-</div>
+<section id="csharp">
+  <h2>C# Projects</h2>
+  <p>Inventory tracking system, barcode scanner integration...</p>
+</section>
 
-<div class="project flutter">
-  <h3>Internal Chat App</h3>
-  <p>Made in Flutter with WebSockets...</p>
-</div>
+<section id="flutter">
+  <h2>Flutter Projects</h2>
+  <p>Mobile app for internal communication, topic discussions...</p>
+</section>
 
-<div class="project php">
-  <h3>Support Portal</h3>
-  <p>Built using PHP and MySQL...</p>
-</div>
-
-<script>
-function filterProjects(tech) {
-  const projects = document.querySelectorAll('.project');
-  projects.forEach(p => {
-    p.style.display = (tech === 'all' || p.classList.contains(tech)) ? 'block' : 'none';
-  });
-}
-</script>
+<section id="php">
+  <h2>PHP Projects</h2>
+  <p>Forum-like support system, real-time backend integration...</p>
+</section>
