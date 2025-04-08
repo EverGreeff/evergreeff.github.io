@@ -38,12 +38,25 @@
   <p><strong>Tech used:</strong> C#, ASP.NET (Self-Hosted API), JSON, Android (Client App)</p>
 </div>
 </section>
-
+<br>
 <section id="flutter">
   <h2>Flutter Projects</h2>
-  <p>Mobile app for internal communication, topic discussions...</p>
-</section>
+  <div class="project-card">
+  <h3>📱 Client Support & Interaction App (Flutter)</h3>
+  <p>
+    A cross-platform mobile app built with Flutter, available for both Android and iOS. The app allows clients to log in, view and respond to support topics, and communicate directly with our company. It integrates with a REST API to handle authentication, data sync, and image uploads for system error reporting.
+  </p>
+  <ul>
+    <li>User login and topic tracking via REST API</li>
+    <li>View and reply to ongoing support discussions</li>
+    <li>Send screenshots or photos related to system issues</li>
+    <li>Compatible with both Android and iOS devices</li>
+  </ul>
+  <p><strong>Tech used:</strong> Flutter, Dart, REST API, Android, iOS</p>
+</div>
 
+</section>
+<br>
 <section id="php">
   <h2>PHP Projects</h2>
   <p>Forum-like support system, real-time backend integration...</p>
