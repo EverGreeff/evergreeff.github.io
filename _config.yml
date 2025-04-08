@@ -1,16 +1,11 @@
-title: Everton Greeff # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-   I'm a full-stack developer with a strong focus on building custom software solutions tailored to real-world business needs. Over the years, I’ve developed complete systems from scratch — from backend logic and database design to responsive UIs and client-facing features. 
-   <br>
-   I’m passionate about solving complex problems with clean, maintainable code. I’ve worked closely with clients across industries, especially in scenarios where reliability and precision matter — like mining operations, equipment tracking, and internal control systems.
+title: John Doe # your name (or website title) here
+ logo: "/images/logo.png?raw=true" # your photo (or logo) here
+ description: > # your text below (remove <br> elements if you don't need line breaks)
+   First description 
    <br><br>
-   Technologies I often work with:
-   C#, .NET, WinForms, WPF, SQLite, PHP, MySQL, JavaScript, Flutter, and WebSocket servers. 
+   Second description 
    <br><br>
-   What sets me apart:
-   I'm highly adaptable — I regularly dive into new languages, frameworks, and platforms based on project needs. Whether it’s integrating barcode scanners in a desktop app, setting up real-time communication with WebSockets, or building full web systems from scratch — I thrive on learning and delivering.
-  <a href="https://www.linkedin.com/in/everton-greeff-6bb887180/">View My LinkedIn Profile</a> 
-  
-theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+   
+ theme: jekyll-theme-minimal
+ google_analytics: UA-000000-0 # your Google Analytics tracking ID here
