@@ -1,6 +1,6 @@
 title: Everton Greeff # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+description:  # your text below (remove <br> elements if you don't need line breaks)
   👋 Hi, I'm [Your Name] — Full-Stack Developer
 I'm a full-stack developer with a strong focus on building custom software solutions tailored to real-world business needs. Over the years, I’ve developed complete systems from scratch — from backend logic and database design to responsive UIs and client-facing features.
 
