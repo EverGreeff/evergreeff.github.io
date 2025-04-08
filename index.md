@@ -14,8 +14,8 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/](https://github.com/EverGreeff/AvaliaAulaAPIPublic))
-- [Project 2 Title](http://example.com/](https://github.com/EverGreeff/AvaliaAulaPublic))
+- [Project 1 Title](https://github.com/EverGreeff/AvaliaAulaAPIPublic)
+- [Project 2 Title](https://github.com/EverGreeff/AvaliaAulaPublic)
 
 ---
 
