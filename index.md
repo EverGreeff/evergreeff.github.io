@@ -1,48 +1,13 @@
-<style>
-  .project-card {
-  background-color: #f9f9f9;
-  padding: 1rem;
-  margin: 1rem 0;
-  border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.05);
-}
-.project-card h3 {
-  margin-top: 0;
-}
-.project-card ul {
-  padding-left: 1.2rem;
-}
-</style>
-<nav>
-  <ul>
-    <li><a href="#csharp">C#</a></li>
-    <li><a href="#flutter">Flutter</a></li>
-    <li><a href="#php">PHP</a></li>
-    <!-- add more -->
-  </ul>
-</nav>
+## 🔷 C# Projects
 
-<section id="csharp">
-  <h2>C# Projects</h2>
-  <h3>💼 Equipment Tracking System for Mining Operations</h3>
-    <p>
-      A C# desktop application built for mining companies to manage safety equipment issued to employees. The app uses barcode scanning and stores all data in a local SQLite database.
-    </p>
-    <ul>
-      <li>Register employees and safety gear</li>
-      <li>Track items checked in/out via barcode</li>
-      <li>Identify missing or unreturned equipment</li>
-      <li>Fully offline with SQLite support</li>
-    </ul>
-    <p><strong>Tech used:</strong> C#, WinForms, SQLite, Barcode Scanning</p>
-</section>
+### 💼 Equipment Tracking System for Mining Operations
 
-<section id="flutter">
-  <h2>Flutter Projects</h2>
-  <p>Mobile app for internal communication, topic discussions...</p>
-</section>
+A C# desktop application built for mining companies to manage safety equipment issued to employees. The app uses barcode scanning and stores all data in a local SQLite database.
 
-<section id="php">
-  <h2>PHP Projects</h2>
-  <p>Forum-like support system, real-time backend integration...</p>
-</section>
+**Features:**
+- Register employees and safety gear
+- Track items checked in/out via barcode
+- Identify missing or unreturned equipment
+- Fully offline with SQLite support
+
+**Tech used:** `C#`, `WinForms`, `SQLite`, `Barcode Scanning`
