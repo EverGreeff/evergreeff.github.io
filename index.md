@@ -1,16 +1,30 @@
-<div class="project-card">
-  <h2>Equipment Tracking System</h2>
-  <p><strong>Role:</strong> Full-stack Developer</p>
-  <p>
-    Developed a C# desktop app using SQLite and barcode scanning to manage equipment for mining employees. Tracks what is taken into the mines and what is returned, reducing loss and improving safety.
-  </p>
-  <ul class="tech-list">
-    <li>C#</li>
-    <li>WinForms / WPF</li>
-    <li>SQLite</li>
-    <li>Barcode Scanning</li>
-    <li>MVVM Pattern (if used)</li>
-  </ul>
-  <!-- Optional -->
-  <a href="link-to-screenshots-or-demo" class="button">See More</a>
+<div id="tech-filter">
+  <button onclick="filterProjects('all')">All</button>
+  <button onclick="filterProjects('csharp')">C#</button>
+  <button onclick="filterProjects('flutter')">Flutter</button>
+  <button onclick="filterProjects('php')">PHP</button>
 </div>
+
+<div class="project csharp">
+  <h3>Equipment Tracker</h3>
+  <p>Built in C#, SQLite, WinForms...</p>
+</div>
+
+<div class="project flutter">
+  <h3>Internal Chat App</h3>
+  <p>Made in Flutter with WebSockets...</p>
+</div>
+
+<div class="project php">
+  <h3>Support Portal</h3>
+  <p>Built using PHP and MySQL...</p>
+</div>
+
+<script>
+function filterProjects(tech) {
+  const projects = document.querySelectorAll('.project');
+  projects.forEach(p => {
+    p.style.display = (tech === 'all' || p.classList.contains(tech)) ? 'block' : 'none';
+  });
+}
+</script>
