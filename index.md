@@ -1,11 +1,11 @@
 
-<nav>
-  <a style="color: red" href="#csharp">🟦 C#</a>
-  <a href="#flutter">🟩 Flutter</a>
-  <a href="#php">🟨 PHP</a>
-  <a href="#api">🔗 APIs</a>
-  <!-- Add more if needed -->
-</nav>
+## 🔗 Navigate
+
+[🟦 C#](#csharp) &nbsp;|&nbsp;
+[🟩 Flutter](#flutter) &nbsp;|&nbsp;
+[🟨 PHP](#php) &nbsp;|&nbsp;
+[🔗 APIs](#api)
+
 
 <section id="csharp">
   <h2>C# Projects</h2>
