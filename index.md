@@ -1,6 +1,6 @@
 
 <nav>
-  <a style="background-color" href="#csharp">🟦 C#</a>
+  <a style="background-color: red" href="#csharp">🟦 C#</a>
   <a href="#flutter">🟩 Flutter</a>
   <a href="#php">🟨 PHP</a>
   <a href="#api">🔗 APIs</a>
