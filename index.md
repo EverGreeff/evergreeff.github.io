@@ -1,33 +1,6 @@
-<style>
-  nav {
-    background-color: #f5f5f5;
-    padding: 10px 20px;
-    border-radius: 12px;
-    display: flex;
-    gap: 20px;
-    justify-content: center;
-    flex-wrap: wrap;
-    box-shadow: 0 2px 10px rgba(0,0,0,0.05);
-    margin-bottom: 2rem;
-  }
-
-  nav a {
-    text-decoration: none;
-    color: #333;
-    font-weight: bold;
-    padding: 8px 16px;
-    border-radius: 20px;
-    transition: background 0.3s, color 0.3s;
-  }
-
-  nav a:hover {
-    background-color: #007acc;
-    color: white;
-  }
-</style>
 
 <nav>
-  <a href="#csharp">🟦 C#</a>
+  <a style="background-color" href="#csharp">🟦 C#</a>
   <a href="#flutter">🟩 Flutter</a>
   <a href="#php">🟨 PHP</a>
   <a href="#api">🔗 APIs</a>
