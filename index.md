@@ -86,4 +86,19 @@
   <p><strong>Tech used:</strong> PHP, RESTful API, MySQL, JSON</p>
 </div>
 
+<div class="project-card">
+  <h3>🌐 RESTful API for Client Support App (PHP)</h3>
+  <p>
+    A PHP-based RESTful API developed to power the Client Support & Interaction App. This API handles authentication, topic management, image uploads, and real-time data syncing between clients and the company’s internal systems.
+  </p>
+  <ul>
+    <li>User authentication and session management</li>
+    <li>Provides support topic data and updates</li>
+    <li>Handles image uploads and error report attachments</li>
+    <li>Ensures secure and structured communication with the Flutter app</li>
+  </ul>
+  <p><strong>Tech used:</strong> PHP, RESTful API, MySQL, JSON</p>
+</div>
+
+
 </section>
