@@ -42,15 +42,29 @@
 <section id="flutter">
   <h2>Flutter Projects</h2>
   <div class="project-card">
-  <h3>📱 Client Support & Interaction App (Flutter)</h3>
+    <h3>📱 Client Support & Interaction App (Flutter)</h3>
+    <p>
+      A cross-platform mobile app built with Flutter, available for both Android and iOS. The app allows clients to log in, view and respond to support topics, and communicate directly with our company. It integrates with a REST API to handle authentication, data sync, and image uploads for system error reporting.
+    </p>
+    <ul>
+      <li>User login and topic tracking via REST API</li>
+      <li>View and reply to ongoing support discussions</li>
+      <li>Send screenshots or photos related to system issues</li>
+      <li>Compatible with both Android and iOS devices</li>
+    </ul>
+    <p><strong>Tech used:</strong> Flutter, Dart, REST API, Android, iOS</p>
+</div>
+
+<div class="project-card">
+  <h3>🎓 Student Evaluation App (Flutter)</h3>
   <p>
-    A cross-platform mobile app built with Flutter, available for both Android and iOS. The app allows clients to log in, view and respond to support topics, and communicate directly with our company. It integrates with a REST API to handle authentication, data sync, and image uploads for system error reporting.
+    A Flutter mobile application developed for students to evaluate their classes and teachers. The app provides a simple, user-friendly interface for submitting feedback, which is then processed and stored via a RESTful API.
   </p>
   <ul>
-    <li>User login and topic tracking via REST API</li>
-    <li>View and reply to ongoing support discussions</li>
-    <li>Send screenshots or photos related to system issues</li>
-    <li>Compatible with both Android and iOS devices</li>
+    <li>Students rate and review classes and instructors</li>
+    <li>Clean and intuitive mobile UI</li>
+    <li>Communicates with a backend RESTful API</li>
+    <li>Real-time submission and validation</li>
   </ul>
   <p><strong>Tech used:</strong> Flutter, Dart, REST API, Android, iOS</p>
 </div>
@@ -58,6 +72,18 @@
 </section>
 <br>
 <section id="php">
-  <h2>PHP Projects</h2>
-  <p>Forum-like support system, real-time backend integration...</p>
+  <div class="project-card">
+  <h3>🛠️ RESTful API for Student Evaluation System (PHP)</h3>
+  <p>
+    A custom RESTful API built in PHP to support the Student Evaluation mobile app. The API handles all backend logic, including authentication, evaluation submissions, and storing feedback securely in a MySQL database.
+  </p>
+  <ul>
+    <li>Processes student feedback and ratings</li>
+    <li>Handles user authentication and session control</li>
+    <li>Secure endpoints with input validation</li>
+    <li>Optimized for performance and mobile access</li>
+  </ul>
+  <p><strong>Tech used:</strong> PHP, RESTful API, MySQL, JSON</p>
+</div>
+
 </section>
