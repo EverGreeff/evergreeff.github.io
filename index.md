@@ -39,9 +39,7 @@
   <p><strong>Tech used:</strong> C#, ASP.NET (Self-Hosted API), JSON, Android (Client App)</p>
 </div>
 </section>
-
 [⬆️ Back to top](#top)
-
 <br>
 <section id="flutter">
   <h2>Flutter Projects</h2>
@@ -74,9 +72,7 @@
 </div>
 
 </section>
-
 [⬆️ Back to top](#top)
-
 <br>
 <section id="php">
   <div class="project-card">
