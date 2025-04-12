@@ -4,7 +4,6 @@
 [🟦 C#](#csharp) &nbsp;|&nbsp;
 [🟩 Flutter](#flutter) &nbsp;|&nbsp;
 [🟨 PHP](#php) &nbsp;|&nbsp;
-[🔗 APIs](#api)
 
 
 <section id="csharp">
