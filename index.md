@@ -38,6 +38,21 @@
   </ul>
   <p><strong>Tech used:</strong> C#, ASP.NET (Self-Hosted API), JSON, Android (Client App)</p>
 </div>
+
+<div class="project-card">
+  <h3>🛒 Supermarket Self-Service Kiosk (C#)</h3>
+  <p>
+    A standalone C# application designed for use in supermarkets, allowing customers to scan product barcodes and instantly view item details via a local web interface. The app serves a local route (e.g., <code>localhost:4000</code>) and reloads the browser with the product information after each scan.
+  </p>
+  <ul>
+    <li>Local barcode scanning system for in-store product lookup</li>
+    <li>Runs as a C# desktop app and serves an embedded local web server</li>
+    <li>Product info is fetched from a local database</li>
+    <li>After 20 seconds of inactivity, the app switches to a slideshow of promotional images from a configured folder</li>
+  </ul>
+  <p><strong>Tech used:</strong> C#, WinForms, SQLite, Embedded Web Server, HTML/JS (UI)</p>
+</div>
+
 </section>
 [⬆️ Back to top](#top)
 <br>
@@ -75,6 +90,7 @@
 [⬆️ Back to top](#top)
 <br>
 <section id="php">
+  <h2>PHP Projects</h2>
   <div class="project-card">
   <h3>🛠️ RESTful API for Student Evaluation System (PHP)</h3>
   <p>
