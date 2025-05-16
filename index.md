@@ -73,6 +73,38 @@
 </div>
 
 <div class="project-card">
+  <h3>📦 Product Stock Counting App (Flutter)</h3>
+  <p>
+    A mobile inventory management app built with Flutter for Android and iOS. Designed for field use in warehouses or retail stores, it enables users to scan product barcodes, count stock, and sync updates with the central system. Product data is initially received from a C# desktop application, and local storage via SQLite ensures offline functionality.
+  </p>
+  <ul>
+    <li>Receives and updates product data from a C# desktop system</li>
+    <li>Barcode scanning for quick and accurate item lookup</li>
+    <li>Offline-friendly with local SQLite storage</li>
+    <li>Automatic syncing of stock counts when reconnected</li>
+    <li>Uses Provider for efficient state management</li>
+    <li>Cross-platform: Android and iOS support</li>
+  </ul>
+  <p><strong>Tech used:</strong> Flutter, Dart, Provider, SQLite, Barcode Scanner, C#, Android, iOS</p>
+</div>
+
+<div class="project-card">
+  <h3>🔍 Product Traceability App (Flutter)</h3>
+  <p>
+    A versatile Flutter app designed to track product movement and location within a store. It supports multiple operational modes—offline and online—and provides real-time traceability of inventory. Users can scan barcodes to register transfers, updates, and audits. The app supports local data storage with Realm and SQLite, and plays sound cues for confirmations using FlutterRingtonePlayer.
+  </p>
+  <ul>
+    <li>Track product location and movement across store zones</li>
+    <li>Supports offline and online operation modes</li>
+    <li>Barcode scanning for quick identification and trace logging</li>
+    <li>Local storage with Realm and SQLite for flexible data handling</li>
+    <li>Auditory feedback using FlutterRingtonePlayer</li>
+    <li>Cross-platform: Android and iOS support</li>
+  </ul>
+  <p><strong>Tech used:</strong> Flutter, Dart, Barcode Scanner, Realm, SQLite, FlutterRingtonePlayer, Android, iOS</p>
+</div>
+
+<div class="project-card">
   <h3>🎓 Student Evaluation App (Flutter)</h3>
   <p>
     A Flutter mobile application developed for students to evaluate their classes and teachers. The app provides a simple, user-friendly interface for submitting feedback, which is then processed and stored via a RESTful API.
