@@ -165,6 +165,21 @@
     <p><strong>Tech used:</strong> PHP (Socket server), JSON, WebSockets</p>
   </div>
 
+  <div class="project-card">
+    <h3>📊 Company Sales Dashboard</h3>
+    <p>
+      A PHP + HTML + CSS dashboard used by companies to track sales KPIs, projections, and business targets. It includes data summaries, objectives, average ticket info, and graphical gauges for performance tracking.
+    </p>
+    <ul>
+      <li>Shows company sales vs targets with visual gauges</li>
+      <li>Tracks business day progress and monthly projections</li>
+      <li>Built with PHP and vanilla frontend tech for portability</li>
+      <li>Used actively by real clients for internal analytics</li>
+    </ul>
+    <p><strong>Tech used:</strong> PHP, HTML, CSS, Inline or DB, Google Charts</p>
+    <img src="assets/dashboard-preview.png" alt="Dashboard Screenshot" style="max-width: 100%; border: 1px solid #ccc; border-radius: 8px;" />
+  </div>
+
 
 </section>
 
