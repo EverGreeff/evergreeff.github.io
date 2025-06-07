@@ -163,9 +163,6 @@
       <li>Efficient and lightweight — no external libraries required</li>
     </ul>
     <p><strong>Tech used:</strong> PHP (Socket server), JSON, WebSockets</p>
-    <p>
-      🔗 <a href="https://github.com/EverGreeff/websocket-server" target="_blank">View on GitHub</a>
-    </p>
   </div>
 
 
