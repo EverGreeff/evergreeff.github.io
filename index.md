@@ -151,6 +151,23 @@
   <p><strong>Tech used:</strong> PHP, RESTful API, MySQL, JSON</p>
 </div>
 
+<div class="project-card">
+    <h3>🌐 Real-Time WebSocket Server with Topic Subscriptions</h3>
+    <p>
+      A lightweight PHP-based WebSocket server designed for real-time communication between clients. It supports topic-based subscriptions, letting clients join or leave specific channels to receive only the messages relevant to them.
+    </p>
+    <ul>
+      <li>Manages client connections and topic subscriptions</li>
+      <li>Supports broadcasting messages to specific topics</li>
+      <li>Handles subscribe/unsubscribe dynamically via message protocol</li>
+      <li>Efficient and lightweight — no external libraries required</li>
+    </ul>
+    <p><strong>Tech used:</strong> PHP (Socket server), JSON, WebSockets</p>
+    <p>
+      🔗 <a href="https://github.com/EverGreeff/websocket-server" target="_blank">View on GitHub</a>
+    </p>
+  </div>
+
 
 </section>
 
