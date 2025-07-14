@@ -177,7 +177,7 @@
       <li>Used actively by real clients for internal analytics</li>
     </ul>
     <p><strong>Tech used:</strong> PHP, HTML, CSS, Bootstrap, Google Charts</p>
-    <img src="assets/dashboard-preview.png" alt="Dashboard Screenshot" style="max-width: 100%; border: 1px solid #ccc; border-radius: 8px;" />
+    
   </div>
 
 
