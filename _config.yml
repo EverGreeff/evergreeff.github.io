@@ -5,7 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Tech I work with: C#, .NET, WinForms, SQLite, PHP, MySQL, JavaScript, Flutter, WebSockets.
   <br><br>
-  <a href="https://www.linkedin.com/in/everton-greeff-6bb887180/">View My LinkedIn Profile</a> 
+  <a target="_blank" href="https://www.linkedin.com/in/everton-greeff-6bb887180/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
